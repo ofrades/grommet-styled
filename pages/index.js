@@ -21,8 +21,13 @@ export default function Home() {
       <Heading>Grommet styled is clean!</Heading>
       <Paragraph>
         Find out more at{" "}
-        <Anchor href="https://v2.grommet.io/">grommet.io</Anchor>
-{" "}and{" "}<Anchor href="https://styled-components.com/">styled-components</Anchor>
+        <Anchor href="https://v2.grommet.io/">
+          grommet.io
+        </Anchor>
+        {" "}and{" "}
+        <Anchor href="https://styled-components.com/">
+          styled-components
+        </Anchor>
       </Paragraph>
     <ButtonStyled href="https://v2.grommet.io">Grommet</ButtonStyled>
     </BoxStyled>
